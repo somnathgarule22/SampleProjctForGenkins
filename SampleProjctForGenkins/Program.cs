@@ -10,6 +10,7 @@ namespace SampleProjctForGenkins
     {
         public void Addtion()
         {
+            int p, q, r;
             int a = 10;
             int b = 20;
             int c = a + b;
